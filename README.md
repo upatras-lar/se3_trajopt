@@ -56,10 +56,10 @@ use `--vis` option to visualize the results with meshcat
 This work has been partially supported by project MIS 5154714 of the National Recovery and Resilience Plan Greece 2.0 funded by the European Union under the NextGenerationEU Program.
 
 <p align="center">
-<img src="https://archimedesai.gr/images/logo_en.svg" alt="logo_archimedes"/>
+<img src="https://archimedesai.gr/images/logo_en.svg" alt="logo_archimedes" width="50%"/>
 <p/>
 
-This work was conducted within the [Laboratory of Automation and Robotics](https://lar.ece.upatras.gr/) (LAR), Department of Electrical and Computer Engineering, and [Archimedes](https://archimedesai.gr/en/), RC Athena, Greece.
+This work was conducted within the [Laboratory of Automation and Robotics](https://lar.ece.upatras.gr/) (LAR), Department of Electrical and Computer Engineering, and [Archimedes Research Unit](https://archimedesai.gr/en/), RC Athena, Greece.
 
 <p align="center">
 <img src="http://lar.ece.upatras.gr/wp-content/uploads/sites/147/2022/10/lar_profile_alpha.png" alt="logo_lar" width="20%"/><br/>
